@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:12.04
 MAINTAINER CenturyLink Labs <ctl-labs-futuretech@centurylink.com>
 
 # Install packages
